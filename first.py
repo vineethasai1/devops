@@ -1,1 +1,1 @@
-dbname='mysql'
+dbname='plsql'
